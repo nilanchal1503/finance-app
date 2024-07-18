@@ -1,7 +1,6 @@
 # Finance Dashboard App
 
-Build A MERN Finance Dashboard App
+build a mern dashboard which can predict stock patterns and maintain you finance
 
-Video: https://www.youtube.com/watch?v=uoJ0Tv-BFcQ
 
-For all related questions and discussions about this project, check out the discord: https://discord.gg/2FfPeEk2mX
+
