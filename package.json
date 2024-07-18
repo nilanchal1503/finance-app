@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.14.11",
+    "eslint-config-react-app": "^7.0.1",
+    "vite": "^5.3.4"
+  },
+  "dependencies": {
+    "@mui/material": "^5.16.4"
+  }
+}
